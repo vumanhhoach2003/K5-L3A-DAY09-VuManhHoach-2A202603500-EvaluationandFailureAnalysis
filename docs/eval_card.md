@@ -3,11 +3,11 @@
 Card này đi kèm mỗi báo cáo đánh giá và được sử dụng để kiểm soát chất lượng qua từng chu kỳ release.
 
 - **Run ID / eval set SHA:**
-  - Baseline v1: `E-swarm-20261118-7be6` (eval set SHA: `7be6186465d0`)
-  - Baseline v2: `E-swarm-20261118-831f` (eval set SHA: `831fca0826cd`)
+  - Baseline v1: `E-swarm-20261118-71eb` (eval set SHA: `71eb9935e625`)
+  - Baseline v2: `E-swarm-20261118-8fd9` (eval set SHA: `8fd98d6357b1`)
 - **Phiên bản cấu hình:**
   - Code: nhánh `starter/d09`
-  - Eval set: v1 (`7be6186465d0`) và v2 (`831fca0826cd`)
+  - Eval set: v1 (`71eb9935e625`) và v2 (`8fd98d6357b1`)
   - Metric spec: `config/metric_spec.yaml` (v1.0) và `config/metric_spec_v2.yaml` (v2.0)
   - Graders: `lab9.graders.GRADERS`
   - Bộ seed: `[11, 22, 33, 44, 55]` (5 seeds)
